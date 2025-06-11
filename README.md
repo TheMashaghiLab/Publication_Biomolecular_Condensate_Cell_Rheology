@@ -1,4 +1,4 @@
-# Condensate Rheology using Scanning Probe Microscopy
+# Cell-interacitng Condensate Rheology using Scanning Probe Microscopy
 
 This package contains tools for evaluating microrheological experimental data, as presented in the associated paper (below).
 
